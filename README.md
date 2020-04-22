@@ -16,3 +16,5 @@ Embedded C project to implement Greenhouse Monitoring System
 8. Temperature Sensor (LM35) using ADC
 9. Temperature control using fan (DC Motor using PWM)
 10. 7 Segment Display to show temperature
+
+Please note that the circuit screenshot is merely representative and is not an accurate simulatable version. It is schematic and to give the reader an idea about the circuit that the code is being written for.
