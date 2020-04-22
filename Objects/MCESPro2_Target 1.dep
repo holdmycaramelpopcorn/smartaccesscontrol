@@ -1,0 +1,22 @@
+Dependencies for Project 'MCESPro2', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\Startup.s)(0x559CFDE8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips--pd "__UVISION_VERSION SETA 529"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\smartaccesscontrol.c)(0x5E9D45A1)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="529"-o .\objects\smartaccesscontrol.o --omf_browse .\objects\smartaccesscontrol.crf --depend .\objects\smartaccesscontrol.d)
+I (C:\Keil_v5\ARM\INC\Philips\lpc214x.h)(0x559CFE30)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9AF542)
+I (LCD.h)(0x5E9D18F7)
+I (seven.h)(0x5E9D18F8)
+I (buzzer.h)(0x5E9D18F9)
+I (matrix.h)(0x5E9D439D)
+I (stepper.h)(0x5E9D18FA)
+F (.\LCD.h)(0x5E9D18F7)()
+F (.\seven.h)(0x5E9D18F8)()
+F (.\LCD.c)(0x5E9D18F8)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="529"-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (LCD.H)(0x5E9D18F7)
+I (C:\Keil_v5\ARM\INC\Philips\lpc214x.h)(0x559CFE30)
+F (.\seven.c)(0x5E9D18F9)(--c99 --gnu -c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork --split_sections-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\Philips-D__UVISION_VERSION="529"-o .\objects\seven.o --omf_browse .\objects\seven.crf --depend .\objects\seven.d)
+I (seven.h)(0x5E9D18F8)
+I (C:\Keil_v5\ARM\INC\Philips\lpc214x.h)(0x559CFE30)
+F (.\buzzer.h)(0x5E9D18F9)()
+F (.\matrix.h)(0x5E9D439D)()
+F (.\stepper.h)(0x5E9D18FA)()
